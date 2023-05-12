@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4530890c.css",
-    "main.js": "/static/js/main.086c7e95.js",
+    "main.js": "/static/js/main.3fb66180.js",
     "static/js/787.eb337ea3.chunk.js": "/static/js/787.eb337ea3.chunk.js",
-    "static/media/then.png": "/static/media/then.23f4dc5cedaa3fed4ec9.png",
     "static/media/panoramaAthens.jpg": "/static/media/panoramaAthens.d299e8021ec98511458f.jpg",
+    "static/media/then.png": "/static/media/then.d70474e377179acb4f66.png",
     "static/media/back.png": "/static/media/back.80825a5e02052678ea17.png",
     "static/media/dipylonlogo.jpg": "/static/media/dipylonlogo.f0f370dd06074c8022ea.jpg",
     "index.html": "/index.html",
     "main.4530890c.css.map": "/static/css/main.4530890c.css.map",
-    "main.086c7e95.js.map": "/static/js/main.086c7e95.js.map",
+    "main.3fb66180.js.map": "/static/js/main.3fb66180.js.map",
     "787.eb337ea3.chunk.js.map": "/static/js/787.eb337ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4530890c.css",
-    "static/js/main.086c7e95.js"
+    "static/js/main.3fb66180.js"
   ]
 }
